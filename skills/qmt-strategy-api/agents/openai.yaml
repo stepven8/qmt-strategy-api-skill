@@ -1,0 +1,4 @@
+interface:
+  display_name: "QMT Strategy API"
+  short_description: "Follow QMT API rules for strategy development"
+  default_prompt: "Use $qmt-strategy-api to develop a QMT Python strategy that follows the official API conventions."
